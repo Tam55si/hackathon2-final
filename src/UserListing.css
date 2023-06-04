@@ -1,0 +1,16 @@
+.backg{
+background-color: #0d0c2b;
+opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #0d0c2b 8px ), repeating-linear-gradient( #1111e655, #1111e6, );
+}
+
+.container{
+    background-color: rgba(216, 234, 183, 0.743);
+}
+.card{
+    background-color: rgba(204, 236, 167, 0.682);
+}
+
+#table{
+    background-color: rgba(151, 181, 117, 0.682);
+}

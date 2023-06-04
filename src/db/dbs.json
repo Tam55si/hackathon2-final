@@ -1,0 +1,29 @@
+{
+  "api": [
+    {
+      "name": "Tanmoy Si",
+      "cdes": "Cloud Support Associate",
+      "email": "tanmoy.si20@gmail.com",
+      "phone": "+919874229022",
+      "aboutme": "I am a passionate ful stack developer",
+      "location": "Kolkata",
+      "coll": "Calcutta Institute of Engineering and Management",
+      "study": "Electrical Engineering",
+      "enddate": "2018-08-04",
+      "certifi": "Post Graduate in Software Development -- Upgrad Knowledgehut",
+      "certifidate": "2023-07-30",
+      "org": "Accenture",
+      "orgrole": "Cloud Support Associate",
+      "orgsd": "2023-01-13",
+      "orged": "2023-09-18",
+      "projectn": "Resume Building",
+      "projectd": "Created a Resume building website for Hackathon 2",
+      "projecturl": "abcd",
+      "skill1": "React",
+      "skill2": "Javascript",
+      "skill3": "Nodejs",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
